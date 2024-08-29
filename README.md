@@ -1,7 +1,7 @@
 # Employee_dataset_analysis
 ![image](https://github.com/user-attachments/assets/92c26b0e-b638-469e-b90f-610291d7cfd4)
 
-Data Description Employee
+## Data Description Employee
 
 • EmployeeID: Unique identifier for each employee.
 
@@ -43,7 +43,7 @@ Data Description Employee
 
 • YearsWithCurrManager: The number of years the employee has worked with their current manager.
 
-Information of the dataset
+## Information of the dataset
 
 * Columns= 23
 * Rows= 1470
@@ -53,7 +53,7 @@ Information of the dataset
      - object = 14
 * No duplicate values
 
-Questions :- 
+## Questions :
 
  1) Which employees over the age of 35 have been promoted within the last 5 years, and what are their current job roles?
  2) filter the rows in a DataFrame to display only the employees in the Technology department who have a salary greater than 70,000?
